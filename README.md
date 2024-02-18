@@ -2,7 +2,7 @@
 Collection of frequently used commands   
    
    
-강의 제목에 있는 (2:30)시간의 합 구하는 코드   
+### 강의 제목에 있는 (2:30)시간의 합 구하는 코드   
 Code for calculating the sum of the (2:30) time in the lecture title   
 
 ```
