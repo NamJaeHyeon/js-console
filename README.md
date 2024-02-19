@@ -3,7 +3,7 @@ Collection of frequently used commands
    
    
 ### 강의 제목에 있는 시간(ex. "(2:30)")의 합 구하는 코드   
-Code for calculating the sum of the (2:30) time in the lecture title   
+Code for calculating the sum of the time(ex. "(2:30)") in the lecture title   
 
 ```
 let query = "div > span.lecture-name";
